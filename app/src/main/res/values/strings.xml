@@ -1,0 +1,10 @@
+<resources>
+    <string name="controle_arduino_uno">Controle Arduino UNO</string>
+
+    //controle
+    <string name="frente">Frente</string>
+    <string name="traz">Tráz</string>
+    <string name="direita">Direira</string>
+    <string name="esquerda">Esquerda</string>
+    <string name="txt_main">Controle Remoto</string>
+</resources>
